@@ -24,6 +24,11 @@ div.color_select:active{
 	border-radius: 12px;
 	margin-bottom: 20px;
 }
+.object_virtual #pic_kiri{
+	border-radius: 12px;
+	margin-bottom: 20px;
+}
+
 
 /* social media */
 .footer_v1 .footer_bottom .social_box{
