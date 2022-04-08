@@ -209,7 +209,7 @@ function getPixelsKanan(img) {
 
 // ###################### Image KIRI #########################
 var objekKiri = document.getElementById("pic_kiri");
-var canvasKiri = document.createElement("canvasKiri");
+var canvasKiri = document.createElement("canvas");
 var ctxKiri = canvasKiri.getContext("2d");
 var originalPixelsKiri = null;
 var currentPixelsKiri = null;
