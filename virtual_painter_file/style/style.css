@@ -20,6 +20,11 @@ div.color_select:active{
 	position: absolute;
 	/* top: 0; */
 }
+
+.painted_object_virtual{
+	position: absolute;
+}
+
 .object_virtual img{
 	border-radius: 12px;
 	margin-bottom: 20px;
