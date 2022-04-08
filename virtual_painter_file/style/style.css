@@ -16,14 +16,14 @@ div.color_select:active{
 	/* margin-bottom: 30vh; */
 }
 
-/* .painted_object_room {
+.painted_object_room {
 	position: absolute;
 	/* top: 0; */
-} */
-
-.painted_object_virtual{
-	position: absolute;
 }
+
+/* .painted_object_virtual{
+	position: absolute;
+} */
 
 .object_virtual img{
 	border-radius: 12px;
